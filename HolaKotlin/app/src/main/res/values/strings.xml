@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HolaKotlin</string>
+    <string name="text_txtVNombre">Aplicacion Hello World con Speaker</string>
+    <string name="text_btnSpeak">Pulsa para que hable</string>
+    <string name="hint_editTNombre">Escribe algo</string>
 </resources>
