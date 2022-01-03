@@ -100,4 +100,9 @@
     <string name="btn_red">Red</string>
     <string name="btn_blue">Blue</string>
     <string name="btn_green">Green</string>
+    <string name="message_snackbar">Prueba Exitosa</string>
+    <string name="message_buy">Has comprado este producto :)</string>
+    <string name="action_snack">Ir</string>
+    <string name="message_toast">Cristiano Ronaldo Te Quiero</string>
+    <string name="invalid_url">Invalid Url</string>
 </resources>

@@ -7,7 +7,9 @@
     android:fitsSystemWindows="true"
     tools:context=".ScrollingActivity">
 
-    <include layout="@layout/content_scrolling" />
+    <include
+        android:id="@+id/content_activity"
+        layout="@layout/content_scrolling" />
     <com.google.android.material.bottomappbar.BottomAppBar
         android:id="@+id/bottom_app_bar"
         android:layout_width="match_parent"
@@ -16,6 +18,7 @@
         app:menu="@menu/menu_scrolling"
         app:navigationIcon="@drawable/ic_menu"
         app:hideOnScroll="true"
+        app:fabAnimationMode="scale"
         style="@style/Widget.MaterialComponents.BottomAppBar.Colored"
         />
     <com.google.android.material.floatingactionbutton.FloatingActionButton
