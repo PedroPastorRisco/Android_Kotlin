@@ -1,10 +1,8 @@
 package com.example.userssp
 
 import android.content.Context
-import android.content.DialogInterface
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.userssp.databinding.ActivityMainBinding
